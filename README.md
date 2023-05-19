@@ -1,4 +1,4 @@
-# aula12
+# app de frases aleatórias
 
 A new Flutter project.
 
